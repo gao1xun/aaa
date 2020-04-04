@@ -1,3 +1,3 @@
 class Test {
- String a = "aaas";
+ String a = "aaa啊手动阀手动阀s";
 }
